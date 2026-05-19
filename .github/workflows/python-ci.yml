@@ -114,3 +114,4 @@ jobs:
           context: .
           push: true
           tags: chhrainsdhui/python-cicd-demo:latest
+          
